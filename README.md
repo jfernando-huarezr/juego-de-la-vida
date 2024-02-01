@@ -38,4 +38,4 @@ El Juego de la Vida es interesante por su capacidad para mostrar cómo patrones 
 
 ![gif](/img/juego.gif "game of life")
 
-Para comprobar la solución instalar los modulos con `npm install` y ejecutar `npm run previw`. Ingresar a la direccion localhost que aparece en la terminal para ver la animación. Un video con la solucion explicada se encuentra en este [enlace](https://youtu.be/ZGkPwuEoXCs)
+Para comprobar la solución instalar los modulos con `npm install` y ejecutar `npm run build` y `npm run preview`. Ingresar a la direccion localhost que aparece en la terminal para ver la animación. Un video con la solucion explicada se encuentra en este [enlace](https://youtu.be/ZGkPwuEoXCs)
