@@ -35,5 +35,6 @@ El Juego de la Vida es interesante por su capacidad para mostrar cómo patrones 
 - (6 puntos) Para el proceso del cálculo de las reglas, implementar un algoritmo para contar la cantidad de vecinos vivos de una celda, llamada countNeighbors(row, col).
 
 - (5 puntos) Finalmente, si se ha programado correctamente todo en la función draw(), se debería visualizar la animación.
+  ![gif](/img/juego.gif "game of life")
 
 Para comprobar la solución instalar los modulos con `npm install` y ejecutar `npm run previw`. Ingresar a la direccion localhost que aparece en la terminal para ver la animación. Un video con la solucion explicada se encuentra en este [enlace](https://youtu.be/ZGkPwuEoXCs)
